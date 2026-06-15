@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Robotics Spatial Understanding",
+  "description": "Detector de objetos em tempo real em videochamada com projeção de avatar 3D interativo utilizando Gemini-3.5-flash com câmera ao vivo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
